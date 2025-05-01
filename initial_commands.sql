@@ -21,7 +21,7 @@ INSERT INTO git_commands (command, category, description, example) VALUES
 ('git tag', 'Versioning', 'Tags specific commits in history', 'git tag v1.0'),
 ('git stash', 'Changes', 'Stashes changes in a dirty working directory', 'git stash'),
 ('git stash apply', 'Changes', 'Applies previously stashed changes', 'git stash apply'),
-('git cherry-pick', 'Branching', 'Applies the changes introduced by existing commits', 'git cherry-pick abc123'),
+('git cherry-pick', 'Branching', 'Applies the changes introduced by existing commits', 'git cherry-pick abc12'),
 ('git show', 'Logs', 'Shows various types of objects', 'git show abc123'),
 ('git blame', 'Logs', 'Shows who changed what and when in a file', 'git blame main.java'),
 ('git clean', 'Changes', 'Removes untracked files from the working directory', 'git clean -f'),
