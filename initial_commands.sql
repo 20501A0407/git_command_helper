@@ -16,7 +16,7 @@ INSERT INTO git_commands (command, category, description, example) VALUES
 ('git reset', 'Changes', 'Resets current HEAD to the specified state', 'git reset --hard HEAD~1'),
 ('git rm', 'Staging', 'Removes files from the working directory and staging area', 'git rm file.txt'),
 ('git mv', 'Staging', 'Moves or renames a file', 'git mv old.txt new.txt'),
-('git config', 'Config', 'Sets configuration values', 'git config --global user.name "Your Name"'),
+('git config', 'Config', 'Sets configuration value', 'git config --global user.name "Your Name"'),
 ('git remote', 'Remote', 'Manages set of tracked repositories', 'git remote -v'),
 ('git tag', 'Versioning', 'Tags specific commits in history', 'git tag v1.0'),
 ('git stash', 'Changes', 'Stashes changes in a dirty working directory', 'git stash'),
