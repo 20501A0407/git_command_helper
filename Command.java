@@ -12,7 +12,7 @@ public class Command {
         this.example = example;
     }
 
-    // Getter methods
+    
     public String getCommand() {
         return command;
     }
