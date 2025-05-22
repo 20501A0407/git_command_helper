@@ -1,4 +1,4 @@
--- table create
+
 CREATE TABLE git_commands (
     id INTEGER PRIMARY KEY AUTOINCREMENT,
     command TEXT NOT NULL,
